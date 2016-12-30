@@ -1,0 +1,6 @@
+E:\Chris\Code\Chris.DesignPattern\src\Decorator\Demo01_Decorator\bin\Debug\Demo01_Decorator.exe.config
+E:\Chris\Code\Chris.DesignPattern\src\Decorator\Demo01_Decorator\bin\Debug\Demo01_Decorator.exe
+E:\Chris\Code\Chris.DesignPattern\src\Decorator\Demo01_Decorator\bin\Debug\Demo01_Decorator.pdb
+E:\Chris\Code\Chris.DesignPattern\src\Decorator\Demo01_Decorator\obj\Debug\Demo01_Decorator.csprojResolveAssemblyReference.cache
+E:\Chris\Code\Chris.DesignPattern\src\Decorator\Demo01_Decorator\obj\Debug\Demo01_Decorator.exe
+E:\Chris\Code\Chris.DesignPattern\src\Decorator\Demo01_Decorator\obj\Debug\Demo01_Decorator.pdb

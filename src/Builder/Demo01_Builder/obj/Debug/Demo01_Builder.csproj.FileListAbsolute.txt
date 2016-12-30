@@ -1,0 +1,6 @@
+E:\Chris\Code\Chris.DesignPattern\src\Builder\Demo01_Builder\bin\Debug\Demo01_Builder.exe.config
+E:\Chris\Code\Chris.DesignPattern\src\Builder\Demo01_Builder\obj\Debug\Demo01_Builder.csprojResolveAssemblyReference.cache
+E:\Chris\Code\Chris.DesignPattern\src\Builder\Demo01_Builder\bin\Debug\Demo01_Builder.exe
+E:\Chris\Code\Chris.DesignPattern\src\Builder\Demo01_Builder\bin\Debug\Demo01_Builder.pdb
+E:\Chris\Code\Chris.DesignPattern\src\Builder\Demo01_Builder\obj\Debug\Demo01_Builder.exe
+E:\Chris\Code\Chris.DesignPattern\src\Builder\Demo01_Builder\obj\Debug\Demo01_Builder.pdb

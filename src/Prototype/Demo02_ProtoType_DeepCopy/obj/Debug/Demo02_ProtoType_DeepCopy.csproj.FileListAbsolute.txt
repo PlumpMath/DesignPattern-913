@@ -1,0 +1,5 @@
+E:\Chris\Code\Chris.DesignPattern\src\Prototype\Demo02_ProtoType_DeepCopy\bin\Debug\Demo02_ProtoType_DeepCopy.exe.config
+E:\Chris\Code\Chris.DesignPattern\src\Prototype\Demo02_ProtoType_DeepCopy\bin\Debug\Demo02_ProtoType_DeepCopy.exe
+E:\Chris\Code\Chris.DesignPattern\src\Prototype\Demo02_ProtoType_DeepCopy\bin\Debug\Demo02_ProtoType_DeepCopy.pdb
+E:\Chris\Code\Chris.DesignPattern\src\Prototype\Demo02_ProtoType_DeepCopy\obj\Debug\Demo02_ProtoType_DeepCopy.exe
+E:\Chris\Code\Chris.DesignPattern\src\Prototype\Demo02_ProtoType_DeepCopy\obj\Debug\Demo02_ProtoType_DeepCopy.pdb

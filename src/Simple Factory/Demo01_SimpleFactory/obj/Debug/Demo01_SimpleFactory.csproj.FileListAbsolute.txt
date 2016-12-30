@@ -1,0 +1,6 @@
+E:\Chris\Code\Chris.DesignPattern\src\Simple Factory\Demo01_SimpleFactory\bin\Debug\Demo01_SimpleFactory.exe.config
+E:\Chris\Code\Chris.DesignPattern\src\Simple Factory\Demo01_SimpleFactory\bin\Debug\Demo01_SimpleFactory.exe
+E:\Chris\Code\Chris.DesignPattern\src\Simple Factory\Demo01_SimpleFactory\bin\Debug\Demo01_SimpleFactory.pdb
+E:\Chris\Code\Chris.DesignPattern\src\Simple Factory\Demo01_SimpleFactory\obj\Debug\Demo01_SimpleFactory.csprojResolveAssemblyReference.cache
+E:\Chris\Code\Chris.DesignPattern\src\Simple Factory\Demo01_SimpleFactory\obj\Debug\Demo01_SimpleFactory.exe
+E:\Chris\Code\Chris.DesignPattern\src\Simple Factory\Demo01_SimpleFactory\obj\Debug\Demo01_SimpleFactory.pdb

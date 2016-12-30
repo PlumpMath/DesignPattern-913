@@ -1,0 +1,6 @@
+E:\Chris\Code\Chris.DesignPattern\src\Strategy\Demo01_Strategy\bin\Debug\Demo01_Strategy.exe.config
+E:\Chris\Code\Chris.DesignPattern\src\Strategy\Demo01_Strategy\bin\Debug\Demo01_Strategy.exe
+E:\Chris\Code\Chris.DesignPattern\src\Strategy\Demo01_Strategy\bin\Debug\Demo01_Strategy.pdb
+E:\Chris\Code\Chris.DesignPattern\src\Strategy\Demo01_Strategy\obj\Debug\Demo01_Strategy.exe
+E:\Chris\Code\Chris.DesignPattern\src\Strategy\Demo01_Strategy\obj\Debug\Demo01_Strategy.pdb
+E:\Chris\Code\Chris.DesignPattern\src\Strategy\Demo01_Strategy\obj\Debug\Demo01_Strategy.csprojResolveAssemblyReference.cache

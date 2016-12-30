@@ -1,0 +1,6 @@
+E:\Chris\Code\Chris.DesignPattern\src\Proxy\Demo01_Proxy\bin\Debug\Demo01_Proxy.exe.config
+E:\Chris\Code\Chris.DesignPattern\src\Proxy\Demo01_Proxy\bin\Debug\Demo01_Proxy.exe
+E:\Chris\Code\Chris.DesignPattern\src\Proxy\Demo01_Proxy\bin\Debug\Demo01_Proxy.pdb
+E:\Chris\Code\Chris.DesignPattern\src\Proxy\Demo01_Proxy\obj\Debug\Demo01_Proxy.csprojResolveAssemblyReference.cache
+E:\Chris\Code\Chris.DesignPattern\src\Proxy\Demo01_Proxy\obj\Debug\Demo01_Proxy.exe
+E:\Chris\Code\Chris.DesignPattern\src\Proxy\Demo01_Proxy\obj\Debug\Demo01_Proxy.pdb

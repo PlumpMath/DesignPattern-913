@@ -1,0 +1,6 @@
+E:\Chris\Code\Chris.DesignPattern\src\Prototype\Demo01_ProtoType_ShallowCopy\bin\Debug\Demo01_ProtoType_ShallowCopy.exe.config
+E:\Chris\Code\Chris.DesignPattern\src\Prototype\Demo01_ProtoType_ShallowCopy\bin\Debug\Demo01_ProtoType_ShallowCopy.exe
+E:\Chris\Code\Chris.DesignPattern\src\Prototype\Demo01_ProtoType_ShallowCopy\bin\Debug\Demo01_ProtoType_ShallowCopy.pdb
+E:\Chris\Code\Chris.DesignPattern\src\Prototype\Demo01_ProtoType_ShallowCopy\obj\Debug\Demo01_ProtoType_ShallowCopy.csprojResolveAssemblyReference.cache
+E:\Chris\Code\Chris.DesignPattern\src\Prototype\Demo01_ProtoType_ShallowCopy\obj\Debug\Demo01_ProtoType_ShallowCopy.exe
+E:\Chris\Code\Chris.DesignPattern\src\Prototype\Demo01_ProtoType_ShallowCopy\obj\Debug\Demo01_ProtoType_ShallowCopy.pdb

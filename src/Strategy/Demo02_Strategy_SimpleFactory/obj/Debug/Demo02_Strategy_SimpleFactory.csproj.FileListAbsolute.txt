@@ -1,0 +1,9 @@
+E:\Chris\Code\Chris.DesignPattern\Demo02_Strategy_SimpleFactory\bin\Debug\Demo02_Strategy_SimpleFactory.exe.config
+E:\Chris\Code\Chris.DesignPattern\Demo02_Strategy_SimpleFactory\bin\Debug\Demo02_Strategy_SimpleFactory.exe
+E:\Chris\Code\Chris.DesignPattern\Demo02_Strategy_SimpleFactory\bin\Debug\Demo02_Strategy_SimpleFactory.pdb
+E:\Chris\Code\Chris.DesignPattern\Demo02_Strategy_SimpleFactory\obj\Debug\Demo02_Strategy_SimpleFactory.csprojResolveAssemblyReference.cache
+E:\Chris\Code\Chris.DesignPattern\Demo02_Strategy_SimpleFactory\obj\Debug\Demo02_Strategy_SimpleFactory.Form1.resources
+E:\Chris\Code\Chris.DesignPattern\Demo02_Strategy_SimpleFactory\obj\Debug\Demo02_Strategy_SimpleFactory.Properties.Resources.resources
+E:\Chris\Code\Chris.DesignPattern\Demo02_Strategy_SimpleFactory\obj\Debug\Demo02_Strategy_SimpleFactory.csproj.GenerateResource.Cache
+E:\Chris\Code\Chris.DesignPattern\Demo02_Strategy_SimpleFactory\obj\Debug\Demo02_Strategy_SimpleFactory.exe
+E:\Chris\Code\Chris.DesignPattern\Demo02_Strategy_SimpleFactory\obj\Debug\Demo02_Strategy_SimpleFactory.pdb

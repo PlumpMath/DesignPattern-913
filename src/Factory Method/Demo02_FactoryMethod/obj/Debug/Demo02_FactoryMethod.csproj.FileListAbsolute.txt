@@ -1,0 +1,6 @@
+E:\Chris\Code\Chris.DesignPattern\Demo02_FactoryMethod\bin\Debug\Demo02_FactoryMethod.exe.config
+E:\Chris\Code\Chris.DesignPattern\Demo02_FactoryMethod\bin\Debug\Demo02_FactoryMethod.exe
+E:\Chris\Code\Chris.DesignPattern\Demo02_FactoryMethod\bin\Debug\Demo02_FactoryMethod.pdb
+E:\Chris\Code\Chris.DesignPattern\Demo02_FactoryMethod\obj\Debug\Demo02_FactoryMethod.csprojResolveAssemblyReference.cache
+E:\Chris\Code\Chris.DesignPattern\Demo02_FactoryMethod\obj\Debug\Demo02_FactoryMethod.exe
+E:\Chris\Code\Chris.DesignPattern\Demo02_FactoryMethod\obj\Debug\Demo02_FactoryMethod.pdb
