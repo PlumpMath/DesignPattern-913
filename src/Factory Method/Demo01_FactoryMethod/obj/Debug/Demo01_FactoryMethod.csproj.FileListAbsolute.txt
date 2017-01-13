@@ -3,3 +3,9 @@ E:\Chris\Code\Chris.DesignPattern\src\Factory Method\Demo01_FactoryMethod\bin\De
 E:\Chris\Code\Chris.DesignPattern\src\Factory Method\Demo01_FactoryMethod\bin\Debug\Demo01_FactoryMethod.pdb
 E:\Chris\Code\Chris.DesignPattern\src\Factory Method\Demo01_FactoryMethod\obj\Debug\Demo01_FactoryMethod.exe
 E:\Chris\Code\Chris.DesignPattern\src\Factory Method\Demo01_FactoryMethod\obj\Debug\Demo01_FactoryMethod.pdb
+E:\Chris\Code\Github\01_My Projects\Chris.DesignPattern\src\Factory Method\Demo01_FactoryMethod\bin\Debug\Demo01_FactoryMethod.exe.config
+E:\Chris\Code\Github\01_My Projects\Chris.DesignPattern\src\Factory Method\Demo01_FactoryMethod\obj\Debug\Demo01_FactoryMethod.exe
+E:\Chris\Code\Github\01_My Projects\Chris.DesignPattern\src\Factory Method\Demo01_FactoryMethod\obj\Debug\Demo01_FactoryMethod.pdb
+E:\Chris\Code\Github\01_My Projects\Chris.DesignPattern\src\Factory Method\Demo01_FactoryMethod\bin\Debug\Demo01_FactoryMethod.exe
+E:\Chris\Code\Github\01_My Projects\Chris.DesignPattern\src\Factory Method\Demo01_FactoryMethod\bin\Debug\Demo01_FactoryMethod.pdb
+E:\Chris\Code\Github\01_My Projects\Chris.DesignPattern\src\Factory Method\Demo01_FactoryMethod\obj\Debug\Demo01_FactoryMethod.csprojResolveAssemblyReference.cache

@@ -1,10 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace Demo01_Facade.BaseClass
+namespace Demo01_Facade
 {
     /// <summary>
     /// 外观类

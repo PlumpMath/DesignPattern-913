@@ -11,7 +11,7 @@ namespace Demo01_SimpleFactory.FactoryClass
     {
         public static Operation CreateOperate(string operate)
         {
-            Operation oper = null;
+            Operation oper;
             switch (operate)
             {
                 case "+":

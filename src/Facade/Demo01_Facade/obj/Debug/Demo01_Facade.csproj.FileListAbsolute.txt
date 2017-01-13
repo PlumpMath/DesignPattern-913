@@ -4,3 +4,6 @@ E:\Chris\Code\Chris.DesignPattern\Demo01_Facade\bin\Debug\Demo01_Facade.pdb
 E:\Chris\Code\Chris.DesignPattern\Demo01_Facade\obj\Debug\Demo01_Facade.csprojResolveAssemblyReference.cache
 E:\Chris\Code\Chris.DesignPattern\Demo01_Facade\obj\Debug\Demo01_Facade.exe
 E:\Chris\Code\Chris.DesignPattern\Demo01_Facade\obj\Debug\Demo01_Facade.pdb
+E:\Chris\Code\Github\01_My Projects\Chris.DesignPattern\src\Facade\Demo01_Facade\bin\Debug\Demo01_Facade.exe.config
+E:\Chris\Code\Github\01_My Projects\Chris.DesignPattern\src\Facade\Demo01_Facade\obj\Debug\Demo01_Facade.exe
+E:\Chris\Code\Github\01_My Projects\Chris.DesignPattern\src\Facade\Demo01_Facade\obj\Debug\Demo01_Facade.pdb
